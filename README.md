@@ -32,11 +32,10 @@ Cyclistic’s marketing team wants to increase the number of annual memberships.
 
 | Insight | Explanation |
 |--------|-------------|
-| **Ride Length** | Member riders take significantly longer trips than members |
-| **Day of Week** | Casual rides peak on weekends; members ride steadily throughout the week |
-| **Time of Day** | Casual users ride more in the afternoon and evening; members peak around morning/evening commutes |
-| **Stations** | Casual riders start trips most often at tourist-heavy downtown locations |
-| **Age Patterns** | Most riders were born between 1980 and 2000; older outliers were removed for accuracy |
+| **Ride Number** | Member riders take significantly more trips than casual riders |
+| **Average Ride Length** | Casual riders take significantly longer trips than members |
+| **Time of Day** | Casual users ride more from 11 am -5 pm; members peak around morning, around 7 AM  and around 5 pm commutes |
+| **Age Patterns** | Older riders take longer trips than younger members|
 
 ---
 
@@ -72,7 +71,7 @@ Charts created using Python (Seaborn + Matplotlib) and available in the `/visual
 
 ---
 
-##  Process Followed
+##  Process Followed (as directed by the pdf)
 
 ### ASK
 - What business problem am I trying to solve?
