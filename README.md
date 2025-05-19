@@ -67,7 +67,6 @@ Charts created using Python (Seaborn + Matplotlib) and available in the `/visual
 ### 8. Ride Duration by Birth Year (Cleaned)
 ![Ride by Birth Year](Visuals/avg_duration_per_birthyear_corrected.png)
 
-- 
 
 ---
 
