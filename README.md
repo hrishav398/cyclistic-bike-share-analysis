@@ -31,28 +31,28 @@ Cyclistic’s marketing team wants to increase the number of annual memberships.
 Charts created using Python (Seaborn + Matplotlib) and available in the `/visuals/` folder.
 
 ### 1. Riders by User Type
-![Riders by User Type](visuals/Riders per user type.png)
+![Riders by User Type](visuals/Riders%20per%20user%20type.png)
 
 ### 2. Average Ride Duration by User Type
-![Average Ride Duration](visuals/avg ride length per user type.png)
+![Average Ride Duration](visuals/avg%20ride%20length%20per%20user%20type.png)
 
 ### 3. Ride Duration by Day and User Type
-![Ride by Day](visuals/avg ride length by day and user type.png)
+![Ride by Day](visuals/avg%20ride%20length%20by%20day%20and%20user%20type.png)
 
 ###4. 
-![Ride by Day](visuals/riders per week day trend.png)
+![Ride by Day](visuals/riders%20per%20week%20day%20trend.png)
 
 ### 5. Rides by Hour of Day
-![Hourly Rides](visuals/Ride Count by hour of the day and user type.png)
+![Hourly Rides](visuals/Ride%20Count%20by%20hour%20of%20the%20day%20and%20user%20type.png)
 
 ### 6. Top 10 Starting Stations
-![Top Stations](visuals/station ride counts.png)
+![Top Stations](visuals/station%20ride%20counts.png)
 
 ### 7. Ride Duration by Birth Year (data not cleaned)
-![Ride by Birth Year](visuals/avg duration per birth year_mistake.png)
+![Ride by Birth Year](visuals/avg%20duration%20per%20birth%20year_mistake.png)
 
 ### 8. Ride Duration by Birth Year (Cleaned)
-![Ride by Birth Year](visuals/avg duration per birth year corrected.png)
+![Ride by Birth Year](visuals/avg%20duration%20per%20birth%20year%20corrected.png)
 
 - 
 
