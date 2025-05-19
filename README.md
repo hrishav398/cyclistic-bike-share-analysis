@@ -3,6 +3,20 @@
 # Cyclistic Bike-Share Analysis: How Does a Bike-Share Navigate Speedy Success?
 
 This is my capstone project for the **Google Data Analytics Professional Certificate**, where I analyzed Cyclistic’s 2019 bike-share trip data to uncover behavioral trends and help guide the company’s marketing strategy. The goal: understand how **casual riders** differ from **annual members**, and identify ways to convert more casual users into paying members.
+This project was built using Q1, Q2, Q3, and Q4 of 2019 data from Cyclistic (Divvy) — a full year of ride logs covering millions of bike-share trips across Chicago. I chose to work with the complete 2019 dataset because it provided a rich, seasonal view of rider behavior, which I believed was essential for uncovering trends beyond surface-level summaries.
+During the analysis, I encountered a few surprises that weren’t obvious until I visualized the data:
+I discovered that some trips had negative durations, and others lasted more than 24 hours, a data quality issue. I filtered these out to ensure the average duration metrics were meaningful.
+The line plot of average ride duration by birth year unexpectedly revealed riders born as early as 1760. These were system errors or placeholders for missing data. Initially, I thought the data was fine, but that plot helped uncover how unrealistic some entries were. I filtered these out by retaining only birth years from 1919 to 2004, representing riders roughly aged 15 to 100, which is a more plausible range for bike users.
+This capstone project helped me strengthen my Python and data visualization skills, but more importantly, it helped me:
+
+- Think critically about data integrity
+
+- Connect metrics to real-world decisions
+
+- Communicate insights in a way that non-technical stakeholders could understand and act on
+
+- Every chart I included wasn’t just about making something look good — it was about answering a specific business question with evidence-backed storytelling.
+
 
 ---
 
