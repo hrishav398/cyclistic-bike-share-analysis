@@ -32,7 +32,7 @@ Cyclistic’s marketing team wants to increase the number of annual memberships.
 
 | Insight | Explanation |
 |--------|-------------|
-| **Ride Length** | Casual riders take significantly longer trips than members |
+| **Ride Length** | Member riders take significantly longer trips than members |
 | **Day of Week** | Casual rides peak on weekends; members ride steadily throughout the week |
 | **Time of Day** | Casual users ride more in the afternoon and evening; members peak around morning/evening commutes |
 | **Stations** | Casual riders start trips most often at tourist-heavy downtown locations |
@@ -45,28 +45,28 @@ Cyclistic’s marketing team wants to increase the number of annual memberships.
 Charts created using Python (Seaborn + Matplotlib) and available in the `/visuals/` folder.
 
 ### 1. Riders by User Type
-![Riders by User Type](Visuals/Riders%20per%20user%20type.png)
+![Riders by User Type](Visuals/riders_per_user_type.png)
 
 ### 2. Average Ride Duration by User Type
-![Average Ride Duration](Visuals/avg%20ride%20length%20per%20user%20type.png)
+![Average Ride Duration](Visuals/avg_ride_length_per_user_type.png)
 
-### 3. Ride Duration by Day and User Type
-![Ride by Day](Visuals/avg%20ride%20length%20by%20day%20and%20user%20type.png)
+### 3. Average Ride Duration by Day and User Type
+![Ride by Day](Visuals/avg_ride_length_by_day_and_user_type.png)
 
 ### 4. Riders per day of the week 
-![Ride by Day](Visuals/riders%20per%20week%20day%20trend.png)
+![Ride by Day](Visuals/riders_per_week_day_trend.png)
 
 ### 5. Rides by Hour of Day
-![Hourly Rides](Visuals/Ride%20Count%20by%20hour%20of%20the%20day%20and%20user%20type.png)
+![Hourly Rides](Visuals/ride_count_by_hour_of_the_day_and_user_type.png)
 
 ### 6. Top 10 Starting Stations
-![Top Stations](Visuals/station%20ride%20counts.png)
+![Top Stations](Visuals/station_ride_counts.png)
 
 ### 7. Ride Duration by Birth Year (data not cleaned)
-![Ride by Birth Year](Visuals/avg%20duration%20per%20birth%20year_mistake.png)
+![Ride by Birth Year](Visuals/avg_duration_per_birth_year_mistake.png)
 
 ### 8. Ride Duration by Birth Year (Cleaned)
-![Ride by Birth Year](Visuals/avg%20duration%20per%20birth%20year%20corrected.png)
+![Ride by Birth Year](Visuals/avg_duration_per_birthyear_corrected.png)
 
 - 
 
